@@ -1,0 +1,2 @@
+# ShopSmartAI
+shopping AI
